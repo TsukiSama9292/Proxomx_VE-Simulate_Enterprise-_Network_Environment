@@ -36,6 +36,14 @@ P.S: Linux 具備 NAT 轉發，兩個 VM 在相同 PVE node 中封包不會傳�
     - CPU: 12(共用)
     - RAM: 2G
     - DISK: 100GB(零散)
+- DB:
+  - CPU: 4
+  - RAM: 4G
+  - DISK: 100GB
+- 日誌收容:
+  - CPU: 4
+  - RAM: 4G
+  - DISK: 40GB
 - Staff(s)
   - CPU: 2
   - RAM: 4G
